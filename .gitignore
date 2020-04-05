@@ -1,0 +1,12 @@
+env/
+*.DS_Store
+*.pyc
+*.gif
+*.bmp
+*.png
+*.mpeg
+*.svg
+*.scad
+*.stl
+*.obj
+*.gcode
